@@ -7,3 +7,5 @@ if(age>=18):
     print(name,"you can vote")
 elif(age<18):
     print(name,"You can not vote")  
+else:   
+    print("you cannot vote")    
